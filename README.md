@@ -37,9 +37,7 @@ An end-to-end Machine Learning mini-project designed to predict future product d
 ### 
 
 1. Install dependencies:
-bash
 pip install streamlit pandas numpy scikit-learn plotly
 
 2.  Run the Streamlit app:
-bash
-streamlit run app.py
+ streamlit run app.py
