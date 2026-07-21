@@ -31,3 +31,15 @@ An end-to-end Machine Learning mini-project designed to predict future product d
    ```bash
    git clone [https://github.com/Pavan-0612/Sales_Forecasting_Prediction.git](https://github.com/Pavan-0612/Sales_Forecasting_Prediction.git)
    cd sales-forecasting-app
+
+---
+
+### 
+
+1. Install dependencies:
+bash
+pip install streamlit pandas numpy scikit-learn plotly
+
+2.  Run the Streamlit app:
+bash
+streamlit run app.py
