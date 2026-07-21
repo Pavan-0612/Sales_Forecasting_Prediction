@@ -29,5 +29,5 @@ An end-to-end Machine Learning mini-project designed to predict future product d
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/sales-forecasting-app.git](https://github.com/your-username/sales-forecasting-app.git)
+   git clone [https://github.com/Pavan-0612/Sales_Forecasting_Prediction.git](https://github.com/Pavan-0612/Sales_Forecasting_Prediction.git)
    cd sales-forecasting-app
